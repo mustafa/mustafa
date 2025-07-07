@@ -4,7 +4,7 @@ Chief Technology Officer at [Coursera](https://www.coursera.org), leading techno
 
 ## About Me
 
-With over a decade at Coursera, I've grown from Software Engineer to CTO. My journey reflects a deep commitment to leveraging technology for educational impact at scale.
+With over a decade at Coursera, my journey reflects a deep commitment to leveraging technology for educational impact at scale.
 
 Currently leading a 200+ person technology organization, focusing on:
 - AI/ML initiatives for personalized learning
@@ -15,8 +15,6 @@ Currently leading a 200+ person technology organization, focusing on:
 
 When I'm not building technology, you'll find me:
 - **On the tennis court** - Competitive 4.0 USTA player and certified coach
-- **In the mountains** - Passionate about hiking and capturing nature through photography
-- **Making music** - Playing guitar and exploring the intersection of code and creativity
 
 ## Let's Connect
 
